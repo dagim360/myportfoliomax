@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myportfoliomax/static/css/main.a77d5f0e.chunk.css",
+    "main.js": "/myportfoliomax/static/js/main.b60119ad.chunk.js",
+    "main.js.map": "/myportfoliomax/static/js/main.b60119ad.chunk.js.map",
+    "runtime-main.js": "/myportfoliomax/static/js/runtime-main.5cc5720f.js",
+    "runtime-main.js.map": "/myportfoliomax/static/js/runtime-main.5cc5720f.js.map",
+    "static/js/2.1401b138.chunk.js": "/myportfoliomax/static/js/2.1401b138.chunk.js",
+    "static/js/2.1401b138.chunk.js.map": "/myportfoliomax/static/js/2.1401b138.chunk.js.map",
+    "index.html": "/myportfoliomax/index.html",
+    "static/css/main.a77d5f0e.chunk.css.map": "/myportfoliomax/static/css/main.a77d5f0e.chunk.css.map",
+    "static/js/2.1401b138.chunk.js.LICENSE.txt": "/myportfoliomax/static/js/2.1401b138.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/myportfoliomax/static/media/address.a01cb8cc.png",
+    "static/media/award.a796a64f.png": "/myportfoliomax/static/media/award.a796a64f.png",
+    "static/media/email.a49e0158.png": "/myportfoliomax/static/media/email.a49e0158.png",
+    "static/media/me.2d3bb377.png": "/myportfoliomax/static/media/me.2d3bb377.png",
+    "static/media/moon.3bea3d39.png": "/myportfoliomax/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/myportfoliomax/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/myportfoliomax/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cc5720f.js",
+    "static/js/2.1401b138.chunk.js",
+    "static/css/main.a77d5f0e.chunk.css",
+    "static/js/main.b60119ad.chunk.js"
+  ]
+}
